@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open-source projects related to App development, Web development and Software engineering.
 - ⚡ Fun fact: While I'm not working I love to visit new places with family.
 
-  ## Connect with me
+## Connect with me
 
 <a href="mailto:naitikpadsala07@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
